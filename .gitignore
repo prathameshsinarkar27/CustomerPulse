@@ -1,0 +1,46 @@
+# Python Virtual Environment
+venv/
+.env/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Data Files
+Data/Raw/
+Data/Cleaned/
+
+# Power BI Temporary Files
+*.pbix.autosave
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# PostgreSQL Dumps
+*.backup
+*.sql.backup
+
+# Temporary Files
+temp/
+tmp/
+
+# Python Build Files
+build/
+dist/
+*.egg-info/
+
+# Secrets
+.env
+.env.local
