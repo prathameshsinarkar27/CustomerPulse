@@ -19,11 +19,6 @@ CustomerPulse is an end-to-end Data Analytics and Business Intelligence project 
 * Power Query
 * GitHub
 
-## Project Status
-
-Phase 1: Business Understanding (In Progress)
-
-
 ## Dataset
 
 This project uses the Olist Brazilian E-Commerce Dataset.
